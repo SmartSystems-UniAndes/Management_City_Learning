@@ -60,12 +60,16 @@ the trainin process of the DDPG agent.
 ```
 
 ## References
+
 [1] Jorge Felipe Gaviria, Gabriel Narváez, Camilo Guillen, Luis Felipe Giraldo, and Michael Bressan. Machine learning in photovoltaic systems: A review. ISSN 0960-1481. doi: 10.1016/j.renene.2022.06.105. URL https://www.sciencedirect.com/science/article/pii/S0960148122009454?via%3Dihub
+
 [2] Kathirgamanathan, A., Twardowski, K., Mangina, E., & Finn, D. P. (2020, November). *A Centralised Soft Actor Critic 
 Deep Reinforcement Learning Approach to District Demand Side Management through CityLearn*. In Proceedings of the 1st 
 International Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (pp. 11-14).
+
 [3] Vazquez-Canteli, J. R., Dey, S., Henze, G., & Nagy, Z. (2020). *CityLearn: Standardizing Research in Multi-Agent
 Reinforcement Learning for Demand Response and Urban Energy Management*. arXiv preprint arXiv:2012.10504.
+
 [4] Tabor, P. (2020). *Actor-Critic-Methods-Paper-To-Code* [Source code]. 
 https://github.com/philtabor/Actor-Critic-Methods-Paper-To-Code.
 
